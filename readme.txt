@@ -8,4 +8,8 @@
 77777777
 7777777777
 888888
+<<<<<<< HEAD
 999999
+=======
+creating a new branch is very quick.
+>>>>>>> fenzhi1
